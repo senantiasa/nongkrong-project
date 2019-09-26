@@ -3,4 +3,4 @@ Hello Nongkrong Project
 - Belajar ReactJS
 - Enjoy
 - Belajar Editing Video
-- Belajar Desain T-Shirt
+- Menulis Artikel Blog
