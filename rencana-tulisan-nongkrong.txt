@@ -2,5 +2,7 @@ Rencana Tulisan Nongkrong
 - Menulis Prediksi EPL
  * Prediksi Chelsea
  * Prediksi Liverpool
-- Menulis Prediksi UCL
+  ^ Menulis Statistik Lini Tengah
+  ^ Menulis Statistik Lini Belakang
 - Menulis Analisa EPL
+- Menulis Prediksi Liga Italia
