@@ -2,3 +2,5 @@ Hello Nongkrong Project
 - Belajar Laravel 
 - Belajar ReactJS
 - Enjoy
+- Belajar Editing Video
+- Belajar Desain T-Shirt
